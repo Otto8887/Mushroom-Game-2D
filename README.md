@@ -1,6 +1,6 @@
 # Mushroom-Game-2D
 THIS IS THE BUILD FILE
-I uploaded this build so i could share the game with github
+I uploaded this build so i could share the game with github:  https://otto8887.github.io/Mushroom-Game-2D/index.html
 
 Platformer where the objective is to get the small mushroom to the white platform.
 The restart button will appear when u enter fullscreen mode.
